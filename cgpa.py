@@ -63,7 +63,7 @@ for i in range(n):
         print("\n")
         #print("this semisters Sgpa is "+str(sem[i][0]))
 xyz=calc(sem)
-print("Your final CGPA for the "+str(n)+" semisters can range from "+str(xyz[0])+" as minimum  to "+str(xyz[0]+1)+"as maximum " )
+print("Your final CGPA for the "+str(n)+" semisters can be minimum of "+str(xyz[0]) )
         
         
         
